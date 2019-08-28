@@ -1,0 +1,34 @@
+﻿WAITING FOR DATA SETS@@n
+INUSE SYSJOB@@n
++DBA:BOCSZ BIG PARTITION TS FOUND!@@n
++DBA:BANCS BIG PARTITION TS FOUND!@@n
++DBA:EISS BIG SEGMENT TS FOUND!@@n
++DBA:BANCS BIG SEGMENT TS FOUND!@@n
+SEV=WAR@@n
+INUSE SYSJOB@@n
+I/O TIMEOUT INTERVAL HAS BEEN EXCEEDED FOR AN ACTIVE REQUEST@@n
+DSNRPBCW WARNING - UNCOMMITTED UR AFTER 3 CHECKPOINTS - CORRELATION NAME =@@n
+CONNECTION ID  = UTILITY -           LUWID =@@n
+CONNECTION ID  = DB2CALL -           LUWID =@@n
+SEV=CRI TCPIP PUName:@@n
+(State <> ACTIVE)@@n
+(State <> ACTIVE) (Persisting)@@n
+(Exts > @@n
+EXTENTS =@@n
+SEV=WAR@@n
+Data Set:@@n
+端到端@@n
+端到端主机Log DC重连Socket失败@@n
+端到端:ERROR CN streamsjob status not running!@@n
+端到端:ERROR OVERSEA streamsjob status not running!@@n
+- Connect Failed@@n
+Error: The application process is down:@@n
+ERROR OVERSEA streamsjob healthy not good!@@n
+Failed to process the following request : No response was received from server application within time-out for SNL primitive with header: @@n
+ERROR [com.e2e.dc.service.impl.GetLogDataImpl]@@n
+RROR [com.e2e.dc.service.impl.SendEventImpl] - Connect Failed@@n
+Error: The application process is down:@@n
+端到端:ERROR CN streamsjob healthy not good!@@m
+Error: The application process is down: /streams/InfoSphereStreams/system/impl/bin/streams-pec@@n
+端到端:ERROR CN streamsjob status not running!@@n
+
